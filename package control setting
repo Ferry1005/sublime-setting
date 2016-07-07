@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"CSScomb",
+		"Emmet",
+		"Git",
+		"JsFormat",
+		"JSX",
+		"Package Control",
+		"React ES6 Snippets",
+		"ReactJS",
+		"ReactJS Snippets",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"Seti_UI",
+		"SublimeCodeIntel",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"Syntax Highlighting for Sass"
+	]
+}
