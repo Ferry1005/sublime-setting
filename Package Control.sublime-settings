@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"Boxy Theme Addon - Mono File Icons - Dark UI",
+		"BracketHighlighter",
+		"Chain of Command",
+		"ColorPicker",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"ESLint",
+		"HTMLBeautify",
+		"Jade",
+		"JsFormat",
+		"JSX",
+		"LESS",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"React ES6 Snippets",
+		"ReactJS Snippets",
+		"RegReplace",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeREPL",
+		"Terminal"
+	]
+}
