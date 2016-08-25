@@ -1,4 +1,4 @@
-Sublime Text 3的一些常用设置
+#Sublime Text 3的一些常用设置
 
 1. Preferences.sublime-settings
 2. Package Control.sublime-settings
